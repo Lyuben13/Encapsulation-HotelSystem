@@ -1,0 +1,21 @@
+[
+    {
+        "Name": "Deluxe",
+        "Amenities": [
+            "TV",
+            "WiFi",
+            "Mini Bar"
+        ],
+        "MaxOccupancy": 2
+    },
+    {
+        "Name": "Suite",
+        "Amenities": [
+            "TV",
+            "WiFi",
+            "Jacuzzi",
+            "Mini Bar"
+        ],
+        "MaxOccupancy": 4
+    }
+]
